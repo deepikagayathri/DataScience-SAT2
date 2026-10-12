@@ -1,0 +1,862 @@
+batch,defect_type,defect_count,quality_status
+B1001, Surface Defect ,19,Pass
+B1001,Dimensional Error,4,Pass
+B1001,Crack,5,Pass
+B1001,Porosity,6,Pass
+B1001, Discoloration ,3,Pass
+B1002,Surface Defect,15,Pass
+B1002,DIMENSIONAL ERROR,12,Pass
+B1002,crack,9,Pass
+B1002,Porosity,8,Pass
+B1002,Discoloration,4,Pass
+B1003,SURFACE DEFECT,14,Pass
+B1003,Dimensional Error,17,Pass
+B1003,Crack,6,Pass
+B1003,Porosity,6,Pass
+B1003,Discoloration,2,Pass
+B1004,Surface Defect,14,Pass
+B1004,Dimensional Error,6,Pass
+B1004,Crack,4,Pass
+B1004,Porosity,4,Pass
+B1004,Discoloration,11,Pass
+B1005,Surface Defect,6,Pass
+B1005,Dimensional Error,5,Pass
+B1005,Crack,3,Pass
+B1005,Porosity,2,Pass
+B1006,surface defect,11,Pass
+B1006,Dimensional Error,10,Pass
+B1006,Crack,2,Pass
+B1006,Porosity,5,Pass
+B1006,Discoloration,1,Pass
+B1007,surface defect,8,Pass
+B1007,Dimensional Error,6,Pass
+B1007,Crack,1,Pass
+B1007,Porosity,4,Pass
+B1007,Discoloration,3,Pass
+B1008,Surface Defect,7,Pass
+B1008,Dimensional Error,8,Pass
+B1008,Crack,4,Pass
+B1008,Porosity,7,Pass
+B1008,Discoloration,1,Pass
+B1009,Surface Defect,15,Pass
+B1009,Dimensional Error,15,Pass
+B1009,Crack,5,Pass
+B1009, Porosity ,6,Pass
+B1009,Discoloration,5,Pass
+B1010,Surface Defect,12,Pass
+B1010,Dimensional Error,3,Pass
+B1010,crack,4,Pass
+B1010,POROSITY,5,Pass
+B1010, Discoloration ,1,Pass
+B1011,Surface Defect,16,Pass
+B1011,dimensional error,20,Pass
+B1011,crack,11,Pass
+B1011,Porosity,7,Pass
+B1011,Discoloration,2,Pass
+B1012, Surface Defect ,12,Pass
+B1012,Dimensional Error,10,Pass
+B1012,Crack,3,Pass
+B1012,Porosity,5,Pass
+B1012,Discoloration,5,Pass
+B1013,Surface Defect,2,Pass
+B1013,Crack,1,Pass
+B1013,Discoloration,1,Pass
+B1014,Surface Defect,7,Pass
+B1014, Dimensional Error ,6,Pass
+B1014,Crack,2,Pass
+B1014,POROSITY,3,Pass
+B1014,Discoloration,5,Pass
+B1015,Surface Defect,6,Pass
+B1015,Dimensional Error,7,Pass
+B1015,CRACK,4,Pass
+B1015,porosity,3,Pass
+B1015,DISCOLORATION,1,Pass
+B1016,Surface Defect,16,Pass
+B1016,Dimensional Error,15,Pass
+B1016,Crack,14,Pass
+B1016,Porosity,5,Pass
+B1016,Discoloration,6,Pass
+B1017,Surface Defect,12,Pass
+B1017,dimensional error,11,Pass
+B1017,crack,4,Pass
+B1017,Porosity,4,Pass
+B1017,Discoloration,4,Pass
+B1018,Surface Defect,4,Pass
+B1018,Dimensional Error,4,Pass
+B1018,crack,2,Pass
+B1018,porosity,2,Pass
+B1018,Discoloration,1,Pass
+B1019,Surface Defect,13,Pass
+B1019,Dimensional Error,8,Pass
+B1019,Crack,6,Pass
+B1019,Porosity,6,Pass
+B1019,Discoloration,2,Pass
+B1020,Surface Defect,1,Pass
+B1020,Dimensional Error,4,Pass
+B1020,CRACK,2,Pass
+B1020,Porosity,2,Pass
+B1020,Discoloration,2,Pass
+B1021,Surface Defect,20,Pass
+B1021,Dimensional Error,13,Pass
+B1021,Crack,8,Pass
+B1021,Porosity,7,Pass
+B1021,Discoloration,1,Pass
+B1022, Surface Defect ,18,Pass
+B1022,Dimensional Error,8,Pass
+B1022,Crack,5,Pass
+B1022,porosity,8,Pass
+B1023,Surface Defect,6,Pass
+B1023,Dimensional Error,9,Pass
+B1023,Crack,3,Pass
+B1023,Porosity,7,Pass
+B1023,Discoloration,3,Pass
+B1024,Surface Defect,9,Pass
+B1024,Dimensional Error,5,Pass
+B1024,crack,6,Pass
+B1024,Porosity,5,Pass
+B1024,Discoloration,2,Pass
+B1025,Surface Defect,5,Pass
+B1025, Dimensional Error ,1,Pass
+B1025,Crack,2,Pass
+B1026,Surface Defect,7,Pass
+B1026,Dimensional Error,5,Pass
+B1026,Crack,6,Pass
+B1026,Porosity,8,Pass
+B1026,discoloration,3,Pass
+B1027,Surface Defect,3,Pass
+B1027,Dimensional Error,2,Pass
+B1027,Crack,2,Pass
+B1027,Porosity,2,Pass
+B1027,Discoloration,4,Pass
+B1028,Surface Defect,15,Pass
+B1028,Dimensional Error,9,Pass
+B1028,Crack,13,Pass
+B1028,Porosity,8,Pass
+B1028,Discoloration,5,Pass
+B1029,Surface Defect,4,Pass
+B1029,Dimensional Error,9,Pass
+B1029,Crack,4,Pass
+B1029,Porosity,3,Pass
+B1029,Discoloration,1,Pass
+B1030,Surface Defect,15,Pass
+B1030,Dimensional Error,18,Pass
+B1030, Crack ,11,Pass
+B1030,Porosity,11,Pass
+B1030,Discoloration,2,Pass
+B1031,Surface Defect,10,Pass
+B1031,DIMENSIONAL ERROR,8,Pass
+B1031,Crack,3,Pass
+B1031,Porosity,3,Pass
+B1031,Discoloration,2,Pass
+B1032,Surface Defect,13,Pass
+B1032,Dimensional Error,18,Pass
+B1032,Crack,12,Pass
+B1032,Porosity,6,Pass
+B1032,Discoloration,4,Pass
+B1033,Surface Defect,7,Pass
+B1033,Dimensional Error,3,Pass
+B1033,CRACK,2,Pass
+B1033,POROSITY,2,Pass
+B1033,DISCOLORATION,2,Pass
+B1034,Surface Defect,12,Pass
+B1034,Dimensional Error,9,Pass
+B1034,Crack,6,Pass
+B1034,Porosity,1,Pass
+B1034,Discoloration,2,Pass
+B1035,Surface Defect,4,Pass
+B1035,DIMENSIONAL ERROR,1,Pass
+B1035,Crack,1,Pass
+B1035,Porosity,1,Pass
+B1035,Discoloration,1,Pass
+B1036,Surface Defect,9,Pass
+B1036,Dimensional Error,14,Pass
+B1036,crack,6,Pass
+B1036,Porosity,5,Pass
+B1036,Discoloration,3,Pass
+B1037,Surface Defect,4,Pass
+B1037, Dimensional Error ,10,Pass
+B1037,Crack,3,Pass
+B1037,Porosity,2,Pass
+B1037,Discoloration,1,Pass
+B1038,surface defect,11,Pass
+B1038,Dimensional Error,5,Pass
+B1038,Crack,7,Pass
+B1038,Porosity,3,Pass
+B1038,Discoloration,2,Pass
+B1039,Surface Defect,14,Pass
+B1039,Dimensional Error,18,Pass
+B1039,Crack,11,Pass
+B1039,Porosity,4,Pass
+B1039,Discoloration,4,Pass
+B1040,Surface Defect,10,Pass
+B1040, Dimensional Error ,5,Pass
+B1040,Crack,2,Pass
+B1040,porosity,1,Pass
+B1040,Discoloration,2,Pass
+B1041,Surface Defect,8,Pass
+B1041,Dimensional Error,1,Pass
+B1041,Crack,2,Pass
+B1041,porosity,5,Pass
+B1042,Surface Defect,7,Pass
+B1042,Dimensional Error,4,Pass
+B1042,Porosity,1,Pass
+B1042,Discoloration,1,Pass
+B1043,Surface Defect,6,Pass
+B1043,Dimensional Error,8,Pass
+B1043,Crack,6,Pass
+B1043,Porosity,1,Pass
+B1043,Discoloration,2,Pass
+B1044,Surface Defect,14,Pass
+B1044,Dimensional Error,10,Pass
+B1044,Crack,5,Pass
+B1044,Porosity,7,Pass
+B1044,Discoloration,4,Pass
+B1045,SURFACE DEFECT,12,Pass
+B1045,Dimensional Error,12,Pass
+B1045,Crack,5,Pass
+B1045,Porosity,8,Pass
+B1045,DISCOLORATION,6,Pass
+B1046,Surface Defect,6,Pass
+B1046,Dimensional Error,4,Pass
+B1046,Crack,2,Pass
+B1046,POROSITY,3,Pass
+B1046,Discoloration,1,Pass
+B1047,Surface Defect,11,Pass
+B1047,Dimensional Error,11,Pass
+B1047,Crack,7,Pass
+B1047,porosity,5,Pass
+B1047, Discoloration ,7,Pass
+B1048,surface defect,5,Pass
+B1048,Dimensional Error,1,Pass
+B1048,CRACK,2,Pass
+B1048,Porosity,1,Pass
+B1048,Discoloration,2,Pass
+B1049,Surface Defect,6,Pass
+B1049,dimensional error,2,Pass
+B1049,Crack,3,Pass
+B1049,Porosity,4,Pass
+B1049,Discoloration,2,Pass
+B1050,Surface Defect,5,Pass
+B1050, Dimensional Error ,6,Pass
+B1050,Crack,2,Pass
+B1050,Porosity,2,Pass
+B1050,Discoloration,2,Pass
+B1051,SURFACE DEFECT,13,Pass
+B1051,Dimensional Error,7,Pass
+B1051,Crack,6,Pass
+B1051,Porosity,11,Pass
+B1051,discoloration,2,Pass
+B1052,Surface Defect,12,Pass
+B1052,Dimensional Error,6,Pass
+B1052,Crack,1,Pass
+B1052,Porosity,8,Pass
+B1053,Surface Defect,16,Pass
+B1053,Dimensional Error,10,Pass
+B1053,Crack,6,Pass
+B1053,Porosity,11,Pass
+B1053,DISCOLORATION,4,Pass
+B1054,Surface Defect,2,Pass
+B1054,Dimensional Error,1,Pass
+B1054,Crack,1,Pass
+B1054,Porosity,1,Pass
+B1054,Discoloration,1,Pass
+B1055,Surface Defect,17,Pass
+B1055,Dimensional Error,12,Pass
+B1055,Crack,6,Pass
+B1055, Porosity ,10,Pass
+B1055,Discoloration,6,Pass
+B1056,surface defect,5,Pass
+B1056,Dimensional Error,2,Pass
+B1056,Crack,4,Pass
+B1056,Porosity,1,Pass
+B1056,Discoloration,3,Pass
+B1057,Surface Defect,10,Pass
+B1057,Dimensional Error,6,Pass
+B1057,Crack,5,Pass
+B1057,Porosity,4,Pass
+B1058,Surface Defect,5,Pass
+B1058,Dimensional Error,2,Pass
+B1058,Crack,1,Pass
+B1058,Porosity,3,Pass
+B1059,Surface Defect,5,Pass
+B1059,Dimensional Error,3,Pass
+B1059,crack,4,Pass
+B1059, Discoloration ,2,Pass
+B1060,surface defect,5,Pass
+B1060,Dimensional Error,5,Pass
+B1060,Crack,4,Pass
+B1060,Porosity,2,Pass
+B1060,Discoloration,1,Pass
+B1061,Surface Defect,22,Pass
+B1061,Dimensional Error,18,Pass
+B1061,Crack,11,Pass
+B1061,Porosity,4,Pass
+B1061,Discoloration,5,Pass
+B1062,surface defect,7,Pass
+B1062,Dimensional Error,6,Pass
+B1062,crack,3,Pass
+B1062,Porosity,5,Pass
+B1062,Discoloration,3,Pass
+B1063,surface defect,19,Pass
+B1063,Dimensional Error,21,Pass
+B1063,Crack,6,Pass
+B1063,POROSITY,6,Pass
+B1063,Discoloration,3,Pass
+B1064,Surface Defect,11,Pass
+B1064,Dimensional Error,8,Pass
+B1064,Crack,6,Pass
+B1064,Porosity,4,Pass
+B1064,Discoloration,2,Pass
+B1065,Surface Defect,9,Pass
+B1065,Dimensional Error,4,Pass
+B1065,Crack,5,Pass
+B1065,Porosity,2,Pass
+B1065,Discoloration,5,Pass
+B1066,Surface Defect,19,Pass
+B1066,Dimensional Error,15,Pass
+B1066,Crack,6,Pass
+B1066,Porosity,3,Pass
+B1066,Discoloration,7,Pass
+B1067,Surface Defect,6,Pass
+B1067,Crack,4,Pass
+B1068,Surface Defect,12,Pass
+B1068,dimensional error,8,Pass
+B1068,Crack,3,Pass
+B1068,Porosity,8,Pass
+B1068,Discoloration,1,Pass
+B1069,surface defect,10,Pass
+B1069,Dimensional Error,10,Pass
+B1069,Crack,4,Pass
+B1069,POROSITY,2,Pass
+B1069,Discoloration,3,Pass
+B1070,Surface Defect,10,Pass
+B1070,Dimensional Error,12,Pass
+B1070,Crack,7,Pass
+B1070,Porosity,6,Pass
+B1070,Discoloration,3,Pass
+B1071,Surface Defect,11,Pass
+B1071,Dimensional Error,11,Pass
+B1071,CRACK,10,Pass
+B1071,Porosity,9,Pass
+B1071,Discoloration,2,Pass
+B1072,Surface Defect,9,Pass
+B1072,Dimensional Error,7,Pass
+B1072,CRACK,4,Pass
+B1072,Porosity,7,Pass
+B1072,Discoloration,4,Pass
+B1073,SURFACE DEFECT,3,Pass
+B1073,Dimensional Error,3,Pass
+B1073,Porosity,2,Pass
+B1074,Surface Defect,15,Pass
+B1074,Dimensional Error,14,Pass
+B1074,Crack,8,Pass
+B1074,Porosity,5,Pass
+B1074,Discoloration,3,Pass
+B1075,Surface Defect,3,Pass
+B1075,Dimensional Error,9,Pass
+B1075,Crack,2,Pass
+B1075,porosity,3,Pass
+B1075,DISCOLORATION,3,Pass
+B1076,Surface Defect,6,Pass
+B1076,Dimensional Error,6,Pass
+B1076,Crack,7,Pass
+B1076,porosity,4,Pass
+B1076,Discoloration,4,Pass
+B1077,Surface Defect,8,Pass
+B1077,Dimensional Error,2,Pass
+B1077,Crack,4,Pass
+B1077,POROSITY,4,Pass
+B1077,Discoloration,3,Pass
+B1078,SURFACE DEFECT,6,Pass
+B1078,Dimensional Error,9,Pass
+B1078,Crack,1,Pass
+B1078,Porosity,3,Pass
+B1079,Surface Defect,10,Pass
+B1079,Dimensional Error,8,Pass
+B1079,Crack,2,Pass
+B1079,porosity,1,Pass
+B1079,Discoloration,8,Pass
+B1080,Surface Defect,4,Pass
+B1080, Dimensional Error ,4,Pass
+B1080,Crack,2,Pass
+B1080,Discoloration,1,Pass
+B1081,Surface Defect,10,Pass
+B1081, Dimensional Error ,4,Pass
+B1081,Crack,6,Pass
+B1081,POROSITY,4,Pass
+B1081,Discoloration,3,Pass
+B1082,Surface Defect,9,Pass
+B1082,DIMENSIONAL ERROR,4,Pass
+B1082,Crack,1,Pass
+B1082,Porosity,3,Pass
+B1082,discoloration,3,Pass
+B1083,surface defect,11,Pass
+B1083,Dimensional Error,5,Pass
+B1083,Crack,9,Pass
+B1083,POROSITY,3,Pass
+B1083,Discoloration,2,Pass
+B1084,Surface Defect,6,Pass
+B1084,Dimensional Error,5,Pass
+B1084, Crack ,6,Pass
+B1084,POROSITY,1,Pass
+B1084,Discoloration,2,Pass
+B1085,Surface Defect,9,Pass
+B1085,Dimensional Error,3,Pass
+B1085,Crack,3,Pass
+B1085,Porosity,2,Pass
+B1085,discoloration,2,Pass
+B1086,Surface Defect,5,Pass
+B1086,Dimensional Error,7,Pass
+B1086,Crack,4,Pass
+B1086,Porosity,1,Pass
+B1086,discoloration,3,Pass
+B1087,Surface Defect,3,Pass
+B1087,Crack,1,Pass
+B1087,Porosity,4,Pass
+B1088,Surface Defect,6,Pass
+B1088,Dimensional Error,6,Pass
+B1088,Crack,2,Pass
+B1088,POROSITY,3,Pass
+B1088,Discoloration,3,Pass
+B1089,Surface Defect,10,Pass
+B1089,Dimensional Error,9,Pass
+B1089,Crack,2,Pass
+B1089,Porosity,3,Pass
+B1089,discoloration,3,Pass
+B1090,SURFACE DEFECT,6,Pass
+B1090,Dimensional Error,8,Pass
+B1090,Crack,6,Pass
+B1090,Porosity,2,Pass
+B1090,Discoloration,5,Pass
+B1091,Surface Defect,8,Pass
+B1091,Dimensional Error,9,Pass
+B1091,Crack,4,Pass
+B1091,Porosity,3,Pass
+B1091,Discoloration,3,Pass
+B1092,Surface Defect,2,Pass
+B1092,Dimensional Error,3,Pass
+B1092,Crack,1,Pass
+B1092,Porosity,1,Pass
+B1092,Discoloration,1,Pass
+B1093,Surface Defect,11,Pass
+B1093,Dimensional Error,8,Pass
+B1093,Crack,4,Pass
+B1093,Porosity,3,Pass
+B1093,Discoloration,6,Pass
+B1094,Surface Defect,5,Pass
+B1094,Dimensional Error,5,Pass
+B1094,Porosity,1,Pass
+B1094,Discoloration,1,Pass
+B1095,Surface Defect,19,Pass
+B1095,Dimensional Error,15,Pass
+B1095,Crack,13,Pass
+B1095,POROSITY,7,Pass
+B1095,DISCOLORATION,7,Pass
+B1096,Surface Defect,1,Pass
+B1096,Dimensional Error,2,Pass
+B1096,CRACK,2,Pass
+B1096,Porosity,1,Pass
+B1096,discoloration,2,Pass
+B1097,Surface Defect,5,Pass
+B1097,Crack,3,Pass
+B1097,Porosity,3,Pass
+B1097,DISCOLORATION,1,Pass
+B1098,Surface Defect,6,Pass
+B1098,Dimensional Error,5,Pass
+B1098,POROSITY,4,Pass
+B1099,Surface Defect,5,Pass
+B1099,Dimensional Error,9,Pass
+B1099,Crack,9,Pass
+B1099,Porosity,6,Pass
+B1099,Discoloration,1,Pass
+B1100,Surface Defect,10,Pass
+B1100,Dimensional Error,9,Pass
+B1100,Crack,5,Pass
+B1100,POROSITY,4,Pass
+B1100,Discoloration,5,Pass
+B1101,Surface Defect,15,Pass
+B1101,Dimensional Error,10,Pass
+B1101,Crack,8,Pass
+B1101,Porosity,2,Pass
+B1101,Discoloration,5,Pass
+B1102,surface defect,6,Pass
+B1102,Dimensional Error,5,Pass
+B1102,crack,10,Pass
+B1102,porosity,1,Pass
+B1102,Discoloration,2,Pass
+B1103,SURFACE DEFECT,6,Pass
+B1103,Dimensional Error,6,Pass
+B1103,Crack,4,Pass
+B1103,porosity,4,Pass
+B1103,Discoloration,1,Pass
+B1104,Surface Defect,3,Pass
+B1104,Dimensional Error,2,Pass
+B1104,crack,3,Pass
+B1104,Porosity,1,Pass
+B1104,Discoloration,2,Pass
+B1105,Surface Defect,12,Pass
+B1105,Dimensional Error,5,Pass
+B1105,CRACK,6,Pass
+B1105,Porosity,6,Pass
+B1105,Discoloration,4,Pass
+B1106,Surface Defect,16,Pass
+B1106,Dimensional Error,4,Pass
+B1106,Crack,6,Pass
+B1106,Porosity,2,Pass
+B1106,Discoloration,1,Pass
+B1107,Surface Defect,11,Pass
+B1107,Dimensional Error,8,Pass
+B1107,Crack,5,Pass
+B1107,Porosity,4,Pass
+B1107,Discoloration,4,Pass
+B1108,Surface Defect,10,Pass
+B1108,DIMENSIONAL ERROR,9,Pass
+B1108,Crack,7,Pass
+B1108,Porosity,8,Pass
+B1108,discoloration,4,Pass
+B1109,Surface Defect,4,Pass
+B1109,dimensional error,2,Pass
+B1109,Crack,3,Pass
+B1109,Porosity,3,Pass
+B1110,surface defect,22,Pass
+B1110,DIMENSIONAL ERROR,16,Pass
+B1110,Crack,7,Pass
+B1110,Porosity,7,Pass
+B1110,Discoloration,6,Pass
+B1111,Surface Defect,21,Pass
+B1111,Dimensional Error,7,Pass
+B1111,Crack,13,Pass
+B1111,Porosity,10,Pass
+B1111,Discoloration,4,Pass
+B1112,Surface Defect,11,Pass
+B1112,Dimensional Error,12,Pass
+B1112,Crack,3,Pass
+B1112,Porosity,9,Pass
+B1112,discoloration,3,Pass
+B1113,Surface Defect,17,Pass
+B1113,Dimensional Error,20,Pass
+B1113,Crack,3,Pass
+B1113,Porosity,9,Pass
+B1113,DISCOLORATION,3,Pass
+B1114,Surface Defect,8,Pass
+B1114, Dimensional Error ,7,Pass
+B1114,crack,1,Pass
+B1114,porosity,4,Pass
+B1114, Discoloration ,5,Pass
+B1115,Surface Defect,9,Pass
+B1115,Dimensional Error,5,Pass
+B1115,Crack,5,Pass
+B1115,Porosity,4,Pass
+B1115,Discoloration,4,Pass
+B1116,Surface Defect,2,Pass
+B1116,Dimensional Error,6,Pass
+B1116,Porosity,2,Pass
+B1116, Discoloration ,1,Pass
+B1117,Surface Defect,21,Pass
+B1117,Dimensional Error,21,Pass
+B1117,crack,12,Pass
+B1117,Porosity,10,Pass
+B1117,Discoloration,2,Pass
+B1118,Surface Defect,16,Pass
+B1118,Dimensional Error,11,Pass
+B1118,Crack,4,Pass
+B1118,Porosity,4,Pass
+B1118,DISCOLORATION,5,Pass
+B1119,SURFACE DEFECT,14,Pass
+B1119,Dimensional Error,10,Pass
+B1119,Crack,2,Pass
+B1119,Porosity,4,Pass
+B1119,Discoloration,4,Pass
+B1120,SURFACE DEFECT,4,Pass
+B1120,Dimensional Error,4,Pass
+B1120,Crack,3,Pass
+B1120,Porosity,2,Pass
+B1120,Discoloration,3,Pass
+B1121,Surface Defect,18,Pass
+B1121,Dimensional Error,12,Pass
+B1121,Crack,5,Pass
+B1121,Porosity,6,Pass
+B1121,Discoloration,7,Pass
+B1122,Surface Defect,15,Pass
+B1122,Dimensional Error,20,Pass
+B1122,Crack,9,Pass
+B1122,Porosity,8,Pass
+B1122,Discoloration,4,Pass
+B1123,Surface Defect,11,Pass
+B1123,Dimensional Error,7,Pass
+B1123,Crack,6,Pass
+B1123,porosity,5,Pass
+B1123,Discoloration,3,Pass
+B1124,Surface Defect,13,Pass
+B1124,DIMENSIONAL ERROR,9,Pass
+B1124,Crack,3,Pass
+B1124,Porosity,7,Pass
+B1124,Discoloration,3,Pass
+B1125,Surface Defect,12,Pass
+B1125,DIMENSIONAL ERROR,9,Pass
+B1125,Crack,10,Pass
+B1125, Porosity ,7,Pass
+B1125,discoloration,5,Pass
+B1126,Surface Defect,11,Pass
+B1126,DIMENSIONAL ERROR,6,Pass
+B1126,Crack,7,Pass
+B1126,Porosity,3,Pass
+B1126,Discoloration,3,Pass
+B1127, Surface Defect ,3,Pass
+B1127,Dimensional Error,10,Pass
+B1127,Crack,2,Pass
+B1127,porosity,3,Pass
+B1127,Discoloration,4,Pass
+B1128,Surface Defect,4,Pass
+B1128,Dimensional Error,6,Pass
+B1128,crack,7,Pass
+B1128,porosity,4,Pass
+B1128,Discoloration,3,Pass
+B1129,Surface Defect,5,Pass
+B1129,Dimensional Error,3,Pass
+B1129,Crack,1,Pass
+B1129,Porosity,1,Pass
+B1129,Discoloration,2,Pass
+B1130,Surface Defect,32,Pass
+B1130,Dimensional Error,27,Pass
+B1130,Crack,5,Pass
+B1130,Porosity,5,Pass
+B1130,Discoloration,8,Pass
+B1131, Surface Defect ,13,Pass
+B1131,Dimensional Error,12,Pass
+B1131,Crack,7,Pass
+B1131,Porosity,7,Pass
+B1131,Discoloration,3,Pass
+B1132,Surface Defect,4,Pass
+B1132,Dimensional Error,1,Pass
+B1132,crack,6,Pass
+B1132,Porosity,1,Pass
+B1132,Discoloration,1,Pass
+B1133,SURFACE DEFECT,14,Pass
+B1133,Dimensional Error,14,Pass
+B1133,Crack,5,Pass
+B1133,Porosity,7,Pass
+B1134,Surface Defect,9,Pass
+B1134,Dimensional Error,3,Pass
+B1134,Crack,4,Pass
+B1134,porosity,3,Pass
+B1134,Discoloration,1,Pass
+B1135,Surface Defect,3,Pass
+B1135,Dimensional Error,3,Pass
+B1135,Crack,3,Pass
+B1135,porosity,2,Pass
+B1135,Discoloration,2,Pass
+B1136,SURFACE DEFECT,8,Pass
+B1136,Dimensional Error,8,Pass
+B1136,CRACK,3,Pass
+B1136,Porosity,2,Pass
+B1136,Discoloration,1,Pass
+B1137,Surface Defect,6,Pass
+B1137,Dimensional Error,5,Pass
+B1137,Crack,7,Pass
+B1137,Porosity,1,Pass
+B1137,Discoloration,1,Pass
+B1138,Surface Defect,7,Pass
+B1138,Dimensional Error,4,Pass
+B1138,Porosity,2,Pass
+B1138,Discoloration,3,Pass
+B1139,Surface Defect,13,Pass
+B1139,Dimensional Error,16,Pass
+B1139,CRACK,3,Pass
+B1139,Porosity,5,Pass
+B1139,Discoloration,2,Pass
+B1140,SURFACE DEFECT,3,Pass
+B1140,Dimensional Error,10,Needs Review
+B1140,Crack,1,Pass
+B1140, Porosity ,3,Pass
+B1141,SURFACE DEFECT,12,Pass
+B1141,Dimensional Error,10,Pass
+B1141,Crack,9,Pass
+B1141,Porosity,4,Pass
+B1141,Discoloration,5,Pass
+B1142,Surface Defect,5,Pass
+B1142,Dimensional Error,3,Pass
+B1142,Crack,2,Pass
+B1142,Porosity,4,Pass
+B1142,Discoloration,4,Pass
+B1143,Surface Defect,6,Pass
+B1143,Dimensional Error,5,Pass
+B1143,Porosity,6,Pass
+B1143,Discoloration,3,Pass
+B1144,Surface Defect,10,Pass
+B1144,Dimensional Error,11,Pass
+B1144,Crack,10,Pass
+B1144,Porosity,5,Pass
+B1144,Discoloration,2,Pass
+B1145,Surface Defect,11,Pass
+B1145,Dimensional Error,14,Pass
+B1145,Crack,7,Pass
+B1145,Porosity,11,Pass
+B1145,DISCOLORATION,6,Pass
+B1146,Surface Defect,21,Pass
+B1146,Dimensional Error,13,Pass
+B1146,Crack,12,Pass
+B1146,Porosity,5,Pass
+B1146,Discoloration,3,Pass
+B1147,Surface Defect,3,Pass
+B1147,Dimensional Error,1,Pass
+B1147,Crack,2,Pass
+B1148,Surface Defect,1,Pass
+B1148,dimensional error,2,Pass
+B1148,Crack,2,Pass
+B1148,Porosity,1,Pass
+B1149,Surface Defect,4,Pass
+B1149,CRACK,1,Pass
+B1149,Porosity,2,Pass
+B1149,DISCOLORATION,1,Pass
+B1150,Surface Defect,5,Pass
+B1150,dimensional error,3,Pass
+B1150,Crack,4,Pass
+B1150,porosity,4,Pass
+B1151,Surface Defect,4,Pass
+B1151,Dimensional Error,2,Pass
+B1151,Crack,2,Pass
+B1151,Porosity,1,Pass
+B1152,Surface Defect,5,Pass
+B1152,Dimensional Error,6,Pass
+B1152,CRACK,2,Pass
+B1152,porosity,1,Pass
+B1152,Discoloration,2,Pass
+B1153,Surface Defect,3,Pass
+B1153,Dimensional Error,7,Pass
+B1153,Crack,1,Pass
+B1153,Porosity,1,Pass
+B1153,Discoloration,3,Pass
+B1154,Surface Defect,11,Pass
+B1154,Dimensional Error,8,Pass
+B1154,CRACK,4,Pass
+B1154, Discoloration ,5,Pass
+B1155,Surface Defect,14,Pass
+B1155,Dimensional Error,10,Pass
+B1155,Crack,7,Pass
+B1155,Porosity,6,Pass
+B1155,Discoloration,1,Pass
+B1156,surface defect,6,Pass
+B1156,Dimensional Error,3,Pass
+B1156,Crack,3,Pass
+B1156,Porosity,3,Pass
+B1157,Surface Defect,11,Pass
+B1157,Dimensional Error,9,Pass
+B1157,Crack,4,Pass
+B1157,Porosity,2,Pass
+B1157,Discoloration,2,Pass
+B1158,Surface Defect,13,Pass
+B1158,dimensional error,13,Pass
+B1158,Crack,7,Pass
+B1158,Porosity,3,Pass
+B1158,Discoloration,5,Pass
+B1159,surface defect,3,Pass
+B1159,Dimensional Error,7,Pass
+B1159,Crack,2,Pass
+B1159,Porosity,1,Pass
+B1159,Discoloration,1,Pass
+B1160,Surface Defect,15,Pass
+B1160,Dimensional Error,5,Pass
+B1160,Crack,10,Pass
+B1160,porosity,5,Pass
+B1160,Discoloration,1,Pass
+B1161,Surface Defect,4,Pass
+B1161,Dimensional Error,5,Pass
+B1161,Crack,5,Pass
+B1161,POROSITY,2,Pass
+B1161,Discoloration,2,Pass
+B1162,SURFACE DEFECT,6,Pass
+B1162,Dimensional Error,3,Pass
+B1162,Crack,3,Pass
+B1162,Porosity,7,Pass
+B1162,Discoloration,5,Pass
+B1163,Surface Defect,21,Pass
+B1163,Dimensional Error,17,Pass
+B1163,crack,8,Pass
+B1163,Porosity,7,Pass
+B1163,Discoloration,6,Pass
+B1164,Surface Defect,9,Pass
+B1164,Dimensional Error,4,Pass
+B1164,Crack,6,Pass
+B1164,Porosity,2,Pass
+B1164,Discoloration,3,Pass
+B1165,Surface Defect,9,Pass
+B1165,DIMENSIONAL ERROR,8,Pass
+B1165,Crack,3,Pass
+B1165,Porosity,2,Pass
+B1165,Discoloration,5,Pass
+B1166,Surface Defect,9,Pass
+B1166,Dimensional Error,18,Pass
+B1166,Crack,4,Pass
+B1166,POROSITY,9,Pass
+B1166,Discoloration,9,Pass
+B1167,Surface Defect,5,Pass
+B1167,Dimensional Error,5,Pass
+B1167,Crack,4,Pass
+B1167,porosity,4,Pass
+B1167,Discoloration,2,Pass
+B1168,Surface Defect,16,Pass
+B1168,Dimensional Error,7,Pass
+B1168,Crack,6,Pass
+B1168,Porosity,5,Pass
+B1168, Discoloration ,6,Pass
+B1169,Surface Defect,21,Pass
+B1169,Dimensional Error,11,Pass
+B1169,Crack,7,Pass
+B1169,Porosity,4,Pass
+B1169,discoloration,6,Pass
+B1170,Surface Defect,8,Pass
+B1170,Dimensional Error,12,Pass
+B1170,Crack,5,Pass
+B1170,POROSITY,8,Pass
+B1170, Discoloration ,6,Pass
+B1171,Surface Defect,17,Pass
+B1171,Dimensional Error,21,Pass
+B1171,Crack,12,Pass
+B1171,Porosity,13,Pass
+B1171,Discoloration,4,Pass
+B1172,Surface Defect,7,Pass
+B1172,DIMENSIONAL ERROR,22,Pass
+B1172,Crack,4,Pass
+B1172,Porosity,9,Pass
+B1172,Discoloration,7,Pass
+B1173,Surface Defect,9,Pass
+B1173,Dimensional Error,2,Pass
+B1173,Crack,1,Pass
+B1173,Porosity,2,Pass
+B1173,Discoloration,1,Pass
+B1174,surface defect,8,Pass
+B1174,Dimensional Error,6,Pass
+B1174,Crack,4,Pass
+B1174, Porosity ,3,Pass
+B1174,Discoloration,1,Pass
+B1175,Surface Defect,14,Pass
+B1175,Dimensional Error,7,Pass
+B1175,Crack,12,Pass
+B1175,Porosity,2,Pass
+B1175,Discoloration,3,Pass
+B1176,Surface Defect,12,Pass
+B1176,Dimensional Error,9,Pass
+B1176,Crack,2,Pass
+B1176,Porosity,3,Pass
+B1176,Discoloration,2,Pass
+B1177,SURFACE DEFECT,8,Pass
+B1177,Dimensional Error,11,Pass
+B1177,Crack,8,Pass
+B1177,Porosity,3,Pass
+B1177,Discoloration,5,Pass
+B1178,Surface Defect,14,Pass
+B1178,Dimensional Error,9,Pass
+B1178,Crack,6,Pass
+B1178,Porosity,3,Pass
+B1178,Discoloration,4,Pass
+B1179,Surface Defect,3,Pass
+B1179,Dimensional Error,5,Pass
+B1179,Crack,1,Pass
+B1179,Porosity,1,Pass
+B1179,Discoloration,1,Pass
+B1180,Surface Defect,2,Pass
+B1180,Dimensional Error,5,Pass
+B1180,Crack,2,Pass
+B1180,Porosity,1,Pass
+B1180,Discoloration,1,Pass
